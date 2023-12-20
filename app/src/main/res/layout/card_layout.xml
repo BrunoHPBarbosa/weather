@@ -1,0 +1,87 @@
+
+<androidx.cardview.widget.CardView android:id="@+id/card1"
+    android:layout_width="110dp"
+    android:layout_height="140dp"
+    android:layout_marginEnd="17dp"
+    android:background="@drawable/carddrawable"
+    app:cardBackgroundColor="#9FE6E1E1"
+    app:cardCornerRadius="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:background="#10000000"/>
+
+        <TextView
+            android:id="@+id/desc"
+            android:textColor="#EDE9E9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:text="Tuesday"/>
+
+        <ImageView
+            android:id="@+id/codeimg"
+            android:layout_width="57dp"
+            android:layout_height="52dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/sunicon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="#EDE9E9"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:textStyle="bold"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="26dp"
+            android:text="Min"/>
+
+        <TextView
+            android:id="@+id/mincode"
+            android:textColor="#EDE9E9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="15dp"
+            android:layout_marginBottom="8dp"
+            android:textStyle="bold"
+            android:text="27ºc"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/maxcode"
+            android:textColor="#EDE9E9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="65dp"
+            android:layout_marginBottom="8dp"
+            android:textStyle="bold"
+            android:text="32ºc"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="#EDE9E9"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="65dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="26dp"
+            android:text="Max"/>
+
+
+    </androidx.cardview.widget.CardView>
+

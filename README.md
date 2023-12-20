@@ -61,6 +61,11 @@ I am open to feedback and eager to contribute to the success of innovative proje
 
 ![81b74a2c-9099-4b59-8a0f-aabae56014d3](https://github.com/BrunoHPBarbosa/weather/assets/141725324/b2cbbb11-4d5c-4844-8392-59f2529520fe)
 
+![076a8da9-00b8-4297-9158-04d4aa28cf91](https://github.com/BrunoHPBarbosa/weather/assets/141725324/1059011a-c775-4ccd-9d76-3ced59fda9b6)
+
+![5ea0a675-4d0a-457d-970e-fd02a4d076c1](https://github.com/BrunoHPBarbosa/weather/assets/141725324/37bd3fee-5d07-4eb2-aaf7-556b3bfc0422)
+
+
 https://github.com/BrunoHPBarbosa/weather/assets/141725324/7f7c5c21-ac0b-4929-957e-6934b4f96bbd
 
 
